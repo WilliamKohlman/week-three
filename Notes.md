@@ -1,7 +1,7 @@
 # Week Three Notes
 
 ### Unrelated 
-but finally figured out how to install ffmpeg for the Week 2 Bonus/for personal reasons. Turns out I had to rename the folder to ffmpeg, move it to my Windows folder, and then add it to the Environment Variables Path. I was able to use it to download a youtube video as well as the audio so that I could share it with other people in the event that the original was taken down(which it later was). It felt good to be able to share the video with people that had waited to watch it.
+but finally figured out how to install ffmpeg for the Week 2 Bonus/for personal reasons. Turns out I had to rename the folder to ffmpeg, move it to my Windows folder, and then add it to the Environment Variables Path. I was able to use it to download a youtube video as well as the audio so that I could share it with other people in the event that the original was taken down(which it later was). It felt good to be able to share the video with people that had waited to watch it and were now unable to.
 
 
 
